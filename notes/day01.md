@@ -1,0 +1,1 @@
+Day 1 in my journey, i set up all tools and prepare carefully for entire projects. I also look back what ever i studied in the first year like basis Python, C++, DSA,... im not really good at all these subject but i will try my best.
