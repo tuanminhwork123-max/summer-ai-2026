@@ -1,0 +1,11 @@
+title,company,location,tags
+Backend Developer,ABC Corp,Remote,"python, fastapi, docker"
+Data Analyst,XYZ Inc,Hanoi,"sql, python, excel"
+Frontend Developer,WebCo,Remote,"javascript, react"
+DevOps Engineer,CloudNet,Remote,"docker, kubernetes, python"
+ML Engineer,AI Labs,Ho Chi Minh,"python, tensorflow, sql"
+Full Stack Developer,StartupX,Remote,"python, react, docker"
+Data Engineer,BigData Co,Remote,"python, sql, airflow"
+QA Engineer,TestPro,Hanoi,"python, selenium"
+Security Analyst,SecureNet,Remote,"python, security"
+Product Manager,WebCo,Hanoi,"agile, sql"

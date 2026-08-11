@@ -1,0 +1,12 @@
+[
+  {"title": "Backend Developer", "company": "ABC Corp", "location": "Remote", "tags": ["python", "fastapi", "docker"]},
+  {"title": "Data Analyst", "company": "XYZ Inc", "location": "Hanoi", "tags": ["sql", "python", "excel"]},
+  {"title": "Frontend Developer", "company": "WebCo", "location": "Remote", "tags": ["javascript", "react"]},
+  {"title": "DevOps Engineer", "company": "CloudNet", "location": "Remote", "tags": ["docker", "kubernetes", "python"]},
+  {"title": "ML Engineer", "company": "AI Labs", "location": "Ho Chi Minh", "tags": ["python", "tensorflow", "sql"]},
+  {"title": "Full Stack Developer", "company": "StartupX", "location": "Remote", "tags": ["python", "react", "docker"]},
+  {"title": "Data Engineer", "company": "BigData Co", "location": "Remote", "tags": ["python", "sql", "airflow"]},
+  {"title": "QA Engineer", "company": "TestPro", "location": "Hanoi", "tags": ["python", "selenium"]},
+  {"title": "Security Analyst", "company": "SecureNet", "location": "Remote", "tags": ["python", "security"]},
+  {"title": "Product Manager", "company": "WebCo", "location": "Hanoi", "tags": ["agile", "sql"]}
+]
